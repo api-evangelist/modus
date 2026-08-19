@@ -33,7 +33,7 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 x-status: acquired
 x-status-detail: Acquired by Compass in 2021; modusclosing.com now serves a Compass-branded placeholder with no product or API surface.
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-20'
 tags:
